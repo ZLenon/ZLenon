@@ -1,4 +1,4 @@
-### I am developer frontend 👋
+### I am Web Developer Full-Stack 👋
 
 <!--
 **ZLenon/ZLenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
